@@ -1,0 +1,2 @@
+# Sales-Data-Exploratory-Analysis-Using-Python-And-PowerBI
+This project presents an end-to-end exploratory data analysis (EDA) and business intelligence (BI) visualization of a regional sales dataset. Leveraging the capabilities of Python for data cleaning and statistical exploration, and Power BI for interactive dashboards, this project uncovers key insights to drive data-informed decision-making.
